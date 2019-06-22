@@ -1,4 +1,4 @@
-Title: Grand River Transit ION - MonTransit
+Title: Grand River Transit ION Light Rail - MonTransit
 ----------
 Short description:
 Grand River Transit ION Light Rail for MonTransit.

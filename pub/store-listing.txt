@@ -2,16 +2,17 @@ Title: Grand River Transit ION Light Rail - MonTransit
 ----------
 Short description:
 Grand River Transit ION Light Rail for MonTransit.
-Schedule. News.
+Schedule. Real-Time. News.
 ----------
 What's new in this version?:
 Schedule from June 24, 2019 to September 1, 2019.
+Real-time schedule from realtimemap.grt.ca
 News from www.grt.ca
 ----------
 Full description:
 This application adds Grand River Transit (GRT) ION rapid transit system information to MonTransit.
 
-This app contains the light-rail schedule (available offline) as well as the latest news from www.grt.ca, YouTube and @GRT_ROW & @rideIONrt on Twitter.
+This app contains the light-rail schedule (available offline) and the real-time next departures from realtimemap.grt.ca as well as the latest news from www.grt.ca, YouTube and @GRT_ROW & @rideIONrt on Twitter.
 
 GRT light rail serves Region of Waterloo in Ontario, Canada.
 
@@ -30,7 +31,7 @@ https://github.com/mtransitapps/ca-grand-river-transit-light-rail-android
 This app is not related with the Region of Waterloo and Grand River Transit.
 
 Permissions:
-- Other: required to read news from www.grt.ca, YouTube and Twitter
+- Other: required to load real-time schedule and read news from www.grt.ca, YouTube and Twitter
 ----------
 Application type: Applications
 ----------

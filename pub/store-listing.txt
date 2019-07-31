@@ -5,7 +5,7 @@ Grand River Transit ION Light Rail for MonTransit.
 Schedule. Real-Time. News.
 ----------
 What's new in this version?:
-Schedule from June 28, 2019 to September 1, 2019.
+Schedule from July 31, 2019 to September 1, 2019.
 Real-time schedule from realtimemap.grt.ca
 News from www.grt.ca
 ----------

@@ -1,12 +1,12 @@
 This application adds Grand River Transit (GRT) ION rapid transit system information to MonTransit.
 
-This app contains the light-rail schedule (available offline) and the real-time next departures from realtimemap.grt.ca as well as the latest news from www.grt.ca, YouTube and @GRT_ROW & @rideIONrt on Twitter.
+This app contains the light-rail schedule (available offline) and the real-time next departures from realtimemap.grt.ca as well as the latest news from www.grt.ca and @GRT_ROW & @rideIONrt on Twitter.
 
 GRT light rail serves Region of Waterloo in Ontario, Canada.
 
 Once this application is installed, the MonTransit app will display light rail information (schedule...).
 
-This application only has a temporary icon: download the MonTransit app (free) in the "More ..." section bellow or by following this Google Play link http://goo.gl/pCk5mV
+This application only has a temporary icon: download the MonTransit app (free) in the "More ..." section bellow or by following this Google Play link https://goo.gl/pCk5mV
 
 You can install this application on the SD card but it is not recommended.
 
@@ -19,4 +19,4 @@ https://github.com/mtransitapps/ca-grand-river-transit-light-rail-android
 This app is not related with the Region of Waterloo and Grand River Transit.
 
 Permissions:
-- Other: required to load real-time schedule and read news from www.grt.ca, YouTube and Twitter
+- Other: required to load real-time schedule and read news from www.grt.ca and Twitter

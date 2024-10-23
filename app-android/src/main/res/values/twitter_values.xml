@@ -7,6 +7,10 @@
         <item>rideIONrt</item>
         <item>GRT_ROW</item>
     </string-array>
+    <string-array name="twitter_screen_names_id">
+        <item>1215717268816125957</item>
+        <item>246370991</item>
+    </string-array>
     <string-array name="twitter_screen_names_lang">
         <item>@string/news_provider_language_unknown_show_all</item>
         <item>@string/news_provider_language_unknown_show_all</item>

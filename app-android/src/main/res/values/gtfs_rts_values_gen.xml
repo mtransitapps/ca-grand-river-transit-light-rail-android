@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="MissingTranslation">
     <string name="gtfs_rts_source_label">regionofwaterloo.ca</string>
-    <string name="gtfs_rts_agency_id">grt</string>
+    <string name="gtfs_rts_agency_id">Grand River Transit</string>
     <integer name="gtfs_rts_agency_type">0</integer>
-    <string name="gtfs_rts_timezone">America/New_York</string>
+    <string name="gtfs_rts_timezone">America/Toronto</string>
     <string name="gtfs_rts_color">006BB7</string>
 </resources>

@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="MissingTranslation,UnusedResources">
+    <!-- VERY SLOW https://realtimemap.grt.ca/map -->
     <integer name="grand_river_transit_db_version">1</integer>
     <string name="grand_river_transit_status_for_poi_authority">@string/gtfs_rts_authority</string>
 </resources>

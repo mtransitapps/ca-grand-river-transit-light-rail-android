@@ -6,4 +6,5 @@
     <integer name="gtfs_rts_agency_type">0</integer>
     <string name="gtfs_rts_timezone">America/Toronto</string>
     <string name="gtfs_rts_color">006BB7</string>
+    <string name="gtfs_rts_service_id_cleanup_regex">^301-|-\\d-\\d{4}_\\d-</string>
 </resources>

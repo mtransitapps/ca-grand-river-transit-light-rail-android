@@ -1,6 +1,7 @@
 package org.mtransit.parser.ca_grand_river_transit_light_rail;
 
 import org.jetbrains.annotations.NotNull;
+import org.jetbrains.annotations.Nullable;
 import org.mtransit.commons.CleanUtils;
 import org.mtransit.parser.DefaultAgencyTools;
 import org.mtransit.parser.gtfs.data.GRoute;
@@ -19,11 +20,6 @@ public class GrandRiverTransitLightRailAgencyTools extends DefaultAgencyTools {
 		new GrandRiverTransitLightRailAgencyTools().start(args);
 	}
 
-	@Override
-	public boolean defaultExcludeEnabled() {
-		return true;
-	}
-
 	@NotNull
 	@Override
 	public String getAgencyName() {
@@ -40,6 +36,11 @@ public class GrandRiverTransitLightRailAgencyTools extends DefaultAgencyTools {
 	@Override
 	public Integer getAgencyRouteType() {
 		return MAgency.ROUTE_TYPE_LIGHT_RAIL;
+	}
+
+	@Override
+	public @Nullable String getServiceIdCleanupRegex() {
+		return "^301-|-\\d-\\d{4}_\\d-"; // -\\d{7}$
 	}
 
 	@Override
@@ -95,7 +96,7 @@ public class GrandRiverTransitLightRailAgencyTools extends DefaultAgencyTools {
 		tripHeadsign = CleanUtils.CLEAN_AND.matcher(tripHeadsign).replaceAll(CleanUtils.CLEAN_AND_REPLACEMENT);
 		tripHeadsign = CleanUtils.cleanStreetTypes(tripHeadsign);
 		tripHeadsign = CleanUtils.cleanSlashes(tripHeadsign);
-		return CleanUtils.cleanLabel(tripHeadsign);
+		return CleanUtils.cleanLabel(getFirstLanguageNN(), tripHeadsign);
 	}
 
 	@NotNull
@@ -104,7 +105,7 @@ public class GrandRiverTransitLightRailAgencyTools extends DefaultAgencyTools {
 		gStopName = CleanUtils.toLowerCaseUpperCaseWords(Locale.ENGLISH, gStopName);
 		gStopName = CleanUtils.cleanNumbers(gStopName);
 		gStopName = CleanUtils.cleanStreetTypes(gStopName);
-		return CleanUtils.cleanLabel(gStopName);
+		return CleanUtils.cleanLabel(getFirstLanguageNN(), gStopName);
 	}
 
 	@NotNull

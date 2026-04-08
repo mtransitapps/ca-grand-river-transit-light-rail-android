@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="MissingTranslation,UnusedResources,InconsistentArrays,TypographyDashes">
+    <string name="rss_encoding">iso-8859-1</string>
+    <string-array name="rss_feeds">
+        <item>https://www.grt.ca/Modules/News/rss.aspx</item><!-- not updated since 2025 -->
+    </string-array>
+    <string-array name="rss_feeds_author_icon">
+        <item>https://www.grt.ca/Common/favicon.ico</item>
+    </string-array>
+    <string-array name="rss_feeds_author_url">
+        <item>https://www.grt.ca/modules/news/search.aspx</item>
+    </string-array>
+    <string-array name="rss_feeds_label">
+        <item>www.grt.ca</item>
+    </string-array>
+</resources>

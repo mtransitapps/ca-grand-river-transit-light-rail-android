@@ -1,0 +1,34 @@
+{
+    "trip_excludes": [
+        {
+            "trip_headsign_regex": "Out Of Service",
+            "ignore_case": true
+        }
+    ],
+    "default_route_id_enabled": true,
+    "use_route_short_name_for_route_id": false,
+    "use_route_short_name_for_route_id_comment": "used for GTFS-RT",
+    "default_route_long_name_enabled": true,
+    "direction_finder_enabled": true,
+    "trip_headsign_remove_via": true,
+    "trip_headsign_cleaners": [
+        {
+            "regex": "(^\\d+\\s*)",
+            "ignore_case": true
+        },
+        {
+            "regex": "university of waterloo",
+            "ignore_case": true,
+            "is_word": true,
+            "replacement": "UW"
+        }
+    ],
+    "stop_id_clean_merged": true,
+    "stop_name_cleaners": [
+        {
+            "regex": " - (\\w+)$",
+            "ignore_case": true,
+            "replacement": " ($1)"
+        }
+    ]
+}

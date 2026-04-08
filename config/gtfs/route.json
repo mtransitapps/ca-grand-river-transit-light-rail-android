@@ -1,0 +1,8 @@
+{
+    "default_route_id_enabled": true,
+    "use_route_short_name_for_route_id": false,
+    "use_route_short_name_for_route_id_comment": "used for GTFS-RT",
+    "default_route_long_name_enabled": true,
+    "direction_finder_enabled": true,
+    "stop_id_clean_merged": true
+}

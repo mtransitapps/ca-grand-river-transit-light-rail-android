@@ -1,10 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="MissingTranslation,UnusedResources,InconsistentArrays">
-    <integer name="twitter_db_version">5</integer>
-    <string name="twitter_target_for_poi_authority">@string/gtfs_rts_authority</string>
     <string-array name="twitter_screen_names">
         <!-- <item>rideIONrt</item> --><!-- not accessible -->
-        <item>GRT_ROW</item><!-- already has RSS -->
+        <item>GRT_ROW</item>
     </string-array>
     <string-array name="twitter_screen_names_id">
         <!-- <item>1215717268816125957</item> -->

@@ -1,32 +1,32 @@
-6001,'','Conestoga Sta (Southbound)',43.49829,-80.52952,0,1656379
-6002,'','Northfield Sta (Southbound)',43.49697,-80.54312,0,1656380
-6003,'','Research & Technology Sta (SB)',43.48159,-80.54530,0,1656381
-6004,'','U Of Waterloo Sta (SB)',43.47335,-80.54140,0,1656382
-6005,'','Laurier-Waterloo Pk Sta (SB)',43.46896,-80.53462,0,1656383
-6006,'','Willis Way Sta (Southbound)',43.46257,-80.52382,0,1656384
-6007,'','Allen Station (Southbound)',43.46010,-80.51886,0,1656385
-6008,'','Grand River Hosp Sta (SB)',43.45714,-80.51157,0,1656386
-6009,'','Central Sta (Southbound)',43.45290,-80.49868,0,1656387
-6010,'','Victoria Pk Sta (SB)',43.45009,-80.49334,0,1656409
+6001,'','Conestoga Sta (Southbound)',43.49829,-80.52952,1,1656379
+6002,'','Northfield Sta (Southbound)',43.49697,-80.54312,1,1656380
+6003,'','Research & Technology Sta (SB)',43.48159,-80.54530,1,1656381
+6004,'','U Of Waterloo Sta (SB)',43.47335,-80.54140,1,1656382
+6005,'','Laurier-Waterloo Pk Sta (SB)',43.46896,-80.53462,1,1656383
+6006,'','Willis Way Sta (Southbound)',43.46257,-80.52382,1,1656384
+6007,'','Allen Station (Southbound)',43.46010,-80.51886,1,1656385
+6008,'','Grand River Hosp Sta (SB)',43.45714,-80.51157,1,1656386
+6009,'','Central Sta (Southbound)',43.45290,-80.49868,1,1656387
+6010,'','Victoria Pk Sta (SB)',43.45009,-80.49334,1,1656409
 6011,'','Queen Station (Southbound)',43.44861,-80.48936,0,1656410
-6012,'','Kitchener Mkt Sta (SB)',43.44638,-80.48385,0,1656411
-6013,'','Borden Station (Southbound)',43.44227,-80.47479,0,1656412
-6014,'','Mill Station (Southbound)',43.43335,-80.47782,0,1656413
-6015,'','Blk Line Sta (Southbound)',43.42273,-80.46308,0,1656414
-6016,'','Fairway Sta (Southbound)',43.42234,-80.44254,0,1656415
-6108,'','Fairway Sta (Northbound)',43.42239,-80.44259,0,1657347
-6109,'','Blk Line Sta (Northbound)',43.42283,-80.46293,0,1657348
-6110,'','Mill Station (Northbound)',43.43347,-80.47762,0,1657370
-6111,'','Borden Station (Northbound)',43.44230,-80.47475,0,1657371
-6112,'','Kitchener Mkt Sta (NB)',43.44641,-80.48380,0,1657372
-6113,'','Frederick Sta (Northbound)',43.44940,-80.48748,0,1657373
-6114,'','Kitchener City Hall Sta (NB)',43.45211,-80.49118,0,1657374
-6115,'','Central Sta (Northbound)',43.45304,-80.49855,0,1657375
-6116,'','Grand River Hosp Sta (NB)',43.45720,-80.51162,0,1657376
-6117,'','Allen Station (Northbound)',43.46012,-80.51882,0,1657377
-6118,'','Waterloo Public Sq Sta (NB)',43.46424,-80.52247,0,1657378
-6119,'','Laurier-Waterloo Pk Sta (NB)',43.46902,-80.53454,0,1657379
-6120,'','U Of Waterloo Sta (NB)',43.47340,-80.54129,0,1657401
-6121,'','Research & Technology Sta (NB)',43.48161,-80.54511,0,1657402
-6122,'','Northfield Sta (Northbound)',43.49700,-80.54300,0,1657403
-6123,'','Conestoga Sta (Northbound)',43.49827,-80.52960,0,1657404
+6012,'','Kitchener Mkt Sta (SB)',43.44638,-80.48385,1,1656411
+6013,'','Borden Station (Southbound)',43.44227,-80.47479,1,1656412
+6014,'','Mill Station (Southbound)',43.43335,-80.47782,1,1656413
+6015,'','Blk Line Sta (Southbound)',43.42273,-80.46308,1,1656414
+6016,'','Fairway Sta (Southbound)',43.42234,-80.44254,1,1656415
+6108,'','Fairway Sta (Northbound)',43.42239,-80.44259,1,1657347
+6109,'','Blk Line Sta (Northbound)',43.42283,-80.46293,1,1657348
+6110,'','Mill Station (Northbound)',43.43347,-80.47762,1,1657370
+6111,'','Borden Station (Northbound)',43.44230,-80.47475,1,1657371
+6112,'','Kitchener Mkt Sta (NB)',43.44641,-80.48380,1,1657372
+6113,'','Frederick Sta (Northbound)',43.44940,-80.48748,1,1657373
+6114,'','Kitchener City Hall Sta (NB)',43.45211,-80.49118,1,1657374
+6115,'','Central Sta (Northbound)',43.45304,-80.49855,1,1657375
+6116,'','Grand River Hosp Sta (NB)',43.45720,-80.51162,1,1657376
+6117,'','Allen Station (Northbound)',43.46012,-80.51882,1,1657377
+6118,'','Waterloo Public Sq Sta (NB)',43.46424,-80.52247,1,1657378
+6119,'','Laurier-Waterloo Pk Sta (NB)',43.46902,-80.53454,1,1657379
+6120,'','U Of Waterloo Sta (NB)',43.47340,-80.54129,1,1657401
+6121,'','Research & Technology Sta (NB)',43.48161,-80.54511,1,1657402
+6122,'','Northfield Sta (Northbound)',43.49700,-80.54300,1,1657403
+6123,'','Conestoga Sta (Northbound)',43.49827,-80.52960,1,1657404
